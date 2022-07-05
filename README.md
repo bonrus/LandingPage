@@ -1,7 +1,5 @@
 ## Landing Page Travel 
 
-#### HTML/CSS
-
 ![img.png](TravelLandingPage.png)
 <hr>
 
@@ -46,5 +44,6 @@
 
 <hr>
 
+![image](https://user-images.githubusercontent.com/32902185/177314996-5d33cb1a-82b2-40c1-b392-3f9e125d3bae.png)
 
 
