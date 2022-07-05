@@ -1,13 +1,22 @@
-### Landing Page Travel
+## Landing Page Travel 
 
 #### HTML/CSS
 
-#### Structure landing page:
-1. Header
+![img.png](TravelLandingPage.png)
+<hr>
+
+### About landing page:
+<details>
+<summary>1. Header</summary>
+
    - Logo
    - Navigation menu
    - Auth button
-2. Content
+</details>
+
+<details>
+<summary>2. Content</summary>
+
    - Banner
       1. Title travel service
       2. Description
@@ -21,11 +30,21 @@
      1. Description 
    - Reviews
    - Subscribe block
-3. Footer 
-    - Logo
-    - Social media link
-    - Navigation menu in footer
-4. Copyright design
+</details>
+
+<details>
+<summary>3. Footer </summary>
+
+- Logo
+- Social media link
+- Navigation menu in footer
+</details>
+
+<details>
+<summary>4. Copyright design </summary>
+</details>
+
+<hr>
 
 
-![img.png](TravelLandingPage.png)
+
